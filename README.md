@@ -11,5 +11,5 @@
 
 ### To Add New Labelled Image: Add it on Assets
 ### To see basic concept of the project: run `demo.py`
-
+### Check out [CV Zone](https://github.com/cvzone) for Face_recognition
 
